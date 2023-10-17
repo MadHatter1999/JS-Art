@@ -1,6 +1,6 @@
 import React from 'react';
 import Sketch from 'react-p5';
-import './css/Visuals.css';
+import '../css/Visuals.css';
 
 export default function Visuals() {
   let noiseOffsetX = 0;
